@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sidhartha.rath\\source\\repos\\NetCore\\Spice\\Spice\\Spice.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\UdemyCourses-master\\UdemyCourses\\Spice\\Spice\\Spice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sidhartha.rath\\source\\repos\\NetCore\\Spice\\Spice\\Spice.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\UdemyCourses-master\\UdemyCourses\\Spice\\Spice\\Spice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sidhartha.rath\\source\\repos\\NetCore\\Spice\\Spice\\Spice.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\UdemyCourses-master\\UdemyCourses\\Spice\\Spice\\Spice.csproj",
         "projectName": "Spice",
-        "projectPath": "C:\\Users\\sidhartha.rath\\source\\repos\\NetCore\\Spice\\Spice\\Spice.csproj",
-        "packagesPath": "C:\\Users\\sidhartha.rath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sidhartha.rath\\source\\repos\\NetCore\\Spice\\Spice\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\UdemyCourses-master\\UdemyCourses\\Spice\\Spice\\Spice.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\UdemyCourses-master\\UdemyCourses\\Spice\\Spice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sidhartha.rath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,7 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
@@ -62,16 +62,10 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }
